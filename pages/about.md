@@ -3,4 +3,4 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+Thoughts on property based testing and search based testing of software. 
