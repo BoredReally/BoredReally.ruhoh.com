@@ -1,15 +1,13 @@
-title : Blog Title
-tagline: Blog Tagline
-author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : Software Testing
+tagline: Testing Software
+author : 
+  name : Bored Really
+  email : Supermcooldaddy@gmail.com	
+  github : BoredReally
+  twitter : BoredReally
 
 navigation :
   - archive.html
-  - tags.html
   - categories.html
   - pages.html
   - about.md
